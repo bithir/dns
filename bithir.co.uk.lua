@@ -6,11 +6,11 @@
 
 -- A records
 a("home", "80.195.158.152")
-
 a("kingdoms", "35.176.39.8")
 a("www", "35.176.39.8")
 a("", "35.176.39.8")
 a("mail", "35.176.39.8")
+a("bit-validation","35.176.39.8")
 
 -- CNAME records
 cname("zb14842586", "zmverify.zoho.com")
